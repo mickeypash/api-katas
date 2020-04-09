@@ -30,6 +30,7 @@ A list of popular public APIs which you can use to practice your integration ski
 - **SalesForce** - Salesforce is a leading enterprise customer relationship manager (CRM) application.
 - **Netlify** - Netlify is an all-in-one workflow to build, deploy, and manage modern web projects.
 - **Facebook Messenger** - Facebook Messenger is a messaging app and platform. Users can send messages and exchange photos, videos, stickers, audio, and other files. This app on Zapier works for conversations that are sent to and from Facebook pages and does not yet support direct messages to a user.
+- **Spotify** - Spotify is a music streaming service that provides digital content from record labels and media companies.
 
 ## Future work:
 - [ ] Add links to API docs
